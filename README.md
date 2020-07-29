@@ -12,6 +12,7 @@ Here is the link - https://priyapal-tech.github.io/index.html
 <li>Addes a lightbox with carousel.</li>
 <li>Added Responsive for screens less than 768px</li>
 <li>Added JavaScript Interactivity.</li>
+  <li>Added favicon.</li>
 <li>Valdited On W3 Validator.</li></ul>
 <hr>
 <h2>Build with</h2>
@@ -33,7 +34,8 @@ Here is the link - https://priyapal-tech.github.io/index.html
   <li>For lightbox javascript and jquery are used.</li>
   <li>Hovering effect for the calligraphy with some javascript tricks.</li>
   <li>All pages are well styled and assembled.</li>
-  <li>Font awesome is used to create social media links in the contact page.</li></ul>
+  <li>Font awesome is used to create social media links in the contact page.</li>
+  </ul>
  <h4>Mobile View(Less than 768px)</h4> 
 <ul>
 <li>Hamburger menu with CSS tricks of transition and animation.</li>
