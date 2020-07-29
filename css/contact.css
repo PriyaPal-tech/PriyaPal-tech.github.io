@@ -1,0 +1,70 @@
+
+.contact{
+  margin-top: 200px;
+}
+.email{
+  margin:auto;
+width: 500px;
+  border: 5px solid #717e82;
+padding: 10px;
+line-height: 50px;
+word-wrap: break-word;
+}
+.email p{
+  font-size: 24px;
+  text-align: center;
+}
+.icon-bar{
+   text-align: center;
+  background: transparent;
+  padding-top:20px;
+  padding-bottom: 20px; 
+ word-spacing: 20px;
+}
+.icon-bar a{
+  text-decoration: none;
+display: inline-block;
+  text-align: center;
+  padding: 16px;
+  transition: all 0.3s ease;
+  color: #f98b88;
+}
+.icon-bar a i{
+  font-size: 36px;
+}
+#tag{padding-top: 20px;
+text-align: center;
+  font-size: 24px;
+  color:#000;
+  padding-bottom: 20px;
+}
+.git, .linked, .hacker{
+background: #010203;
+border-radius: 16px;
+}
+
+.icon-bar a:hover{
+  color:#e6e7e2;
+  background:#f98b88 ;
+}
+.mid{
+margin-top: 30px;
+margin-bottom: 30px;
+}
+.hr-text {
+  margin:auto;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width:100px; 
+  padding: 1px;
+
+}
+#or{
+  text-align: center;
+  font-size: 20px;
+}
+@media screen and (max-width: 768px){
+  .email{
+    width: 90%;
+  }
+}

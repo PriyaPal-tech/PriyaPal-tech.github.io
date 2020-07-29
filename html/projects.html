@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang = "en">
+ 
+<head>
+<meta charset = "UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Priya Pal | Artworks</title>
+<link rel="shortcut icon" type="image/png" href="../imgs/icon.png">
+<link rel="stylesheet" href="../css/style.css">
+<link rel="stylesheet" href="../css/projects.css">
+<link rel="stylesheet" href="../css/lightbox.css">
+<script src="../js/preview.js"></script>
+
+</head>
+
+	<body>
+		<div class="nav">
+  <input type="checkbox" id="nav-check">
+  <div class="nav-header">
+    <div class="nav-title">
+      Priya Pal
+    </div>
+  </div>
+  <div class="nav-btn">
+    <label for="nav-check">
+      <span></span>
+      <span></span>
+      <span></span>
+    </label>
+  </div>
+  
+  <div class="nav-links">
+    <a href="../index.html" >Home</a>
+    <a class="current" href="projects.html" >Artworks</a>
+    <a href="contact.html" >Contact</a>
+    
+  </div>
+</div>
+		
+
+	    <h1>Sketches</h1>
+	    <p id="lb-intro">( Click an image! )</p>
+    <div class="lightbox-effect">
+      <a class="example-image-link" href="../imgs/i1.jpg" data-lightbox="example-set" data-title="Sunflower."><img class="example-image" src="../imgs/i1.jpg" alt="Sunflower"/></a>
+
+      <a class="example-image-link" href="../imgs/i2.jpg" data-lightbox="example-set" data-title="Scenery in a lightbulb."><img class="example-image" src="../imgs/i2.jpg" alt="Life" /></a>
+
+      <a class="example-image-link" href="../imgs/i3.jpg" data-lightbox="example-set" data-title="Cosmos."><img class="example-image" src="../imgs/i3.jpg" alt="Cosmos" /></a>
+
+      <a class="example-image-link" href="../imgs/i4.jpg" data-lightbox="example-set" data-title="Nature."><img class="example-image" src="../imgs/i4.jpg" alt="Deer" /></a>
+    </div>
+  <script src="../js/lightbox-plus-jquery.js"></script>
+
+  <h1>
+				Calligraphy
+			</h1>
+            <p id="m-effect">(P.S. Hovering effect available on screen size larger than 768px.)</p>
+			<div id="imagetext">
+				Hover over an image.
+			</div>
+			<div class="hover-effect">
+			<img class="preview" alt="Look at the stars, look how they shine for you." src="../imgs/c1.jpg" onmouseover="showproprty(this)" onmouseleave="document.getElementById('imagetext').innerHTML='Hover over an image.';">
+
+			<img class="preview"  alt="Create the things you wish existed." src="../imgs/c2.jpg" onmouseover="showproprty(this)" onmouseleave="document.getElementById('imagetext').innerHTML='Hover over an image.';">
+
+			<img class="preview"  alt="Fly high but stay grounded." src="../imgs/c3.jpg" onmouseover="showproprty(this)" onmouseleave="document.getElementById('imagetext').innerHTML='Hover over an image.';">
+
+			<img class="preview" alt="You're a sky full of stars." src="../imgs/c4.jpg" onmouseover="showproprty(this)" onmouseleave="document.getElementById('imagetext').innerHTML='Hover over an image.';">
+	</div>
+
+	</body>
+	</html>

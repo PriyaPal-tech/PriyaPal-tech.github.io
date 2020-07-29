@@ -1,0 +1,49 @@
+.content{
+	text-align: center;
+
+}
+.key{
+	margin: auto;
+	display:block;
+	
+}
+#about{
+	line-height: 40px;
+	padding-bottom: 30px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.key ul{
+	padding:0;
+}
+.key h1{
+	text-align: center;
+}
+.key li{
+	list-style-type: none;
+	padding: 10px;
+	font-size: 20px;
+}
+.key p{margin: auto;
+	font-size: 20px;
+}
+#dp{
+	border: 5px solid #717e82;
+	border-radius: 50%;
+	width: 250px;
+	height: 250px;
+}
+.main-img{padding-bottom: 30px;
+	text-align: center;
+}
+
+hr{
+	width: 70%;
+	margin: auto;
+	padding:1px;
+}
+@media screen and (max-width: 768px){
+	hr{
+        width: 90%;
+	}
+}

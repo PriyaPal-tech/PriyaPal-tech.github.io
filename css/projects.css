@@ -1,0 +1,42 @@
+
+#imagetext{
+  height: 120px;
+	padding: 30px;
+	border: 5px solid #717e82;
+	margin: auto;
+	width: 550px;
+	text-align: center;
+	font-size:1.5em;
+ 
+}
+
+
+.preview, .example-image{
+margin-left: 10px;
+margin-right: 10px;
+   margin-top: 25px;
+   margin-bottom: 25px;
+	width:280px;
+	border: 5px solid #717e82;
+}
+.hover-effect,.lightbox-effect{
+text-align: center;
+margin: 10px;
+}
+#lb-intro, #m-effect{
+	font-size: 20px;
+	text-align: center;
+}
+#m-effect{
+display: none;
+}
+@media screen and (max-width: 768px){
+	#imagetext{
+		display: none;
+}
+#m-effect{
+display:block;
+margin-left: 20px;
+margin-right: 20px;
+}
+}
