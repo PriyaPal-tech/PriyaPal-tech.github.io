@@ -10,7 +10,7 @@ Here is the link - https://priyapal-tech.github.io/index.html
 <li>Built HTML structure.</li>
 <li>Added CSS style.</li>
 <li>Addes a lightbox with carousel.</li>
-<li>Added Responsive for screens less than 768px<li/>
+<li>Added Responsive for screens less than 768px</li>
 <li>Added JavaScript Interactivity.</li>
 <li>Valdited On W3 Validator.</li></ul>
 <hr>
