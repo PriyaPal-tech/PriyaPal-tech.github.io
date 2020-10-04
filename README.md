@@ -2,7 +2,7 @@
 Web Design for Everybody Capstone project by University of Michigan
 
 A responsive portfolio made from scratch.<br><br>
-Here is the link - https://priyapal-tech.github.io/index.html
+Here is the link: [Portfolio.](https://priyapal-tech.github.io/index.html)
 <hr/>
 <h2>Portfolio</h2><ul>
 <li>Developed a professional-quality web portfolio.</li>
