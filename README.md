@@ -1,5 +1,4 @@
 # PriyaPal-tech.github.io
-Web Design for Everybody Capstone project by University of Michigan
 
 A responsive portfolio made from scratch.<br><br>
 Here is the link: [Portfolio.](https://priyapal-tech.github.io/index.html)
